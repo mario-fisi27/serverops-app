@@ -1,0 +1,6 @@
+target/
+*.war
+*.log
+*.tmp
+*~
+*.swp
