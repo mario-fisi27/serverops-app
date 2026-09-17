@@ -2,7 +2,7 @@ Kapitel 12.1 – Tomcat & Java-App-Deployment(Erweiterung)
 
 sudo dnf -y install java-17-openjdk tomcat maven
 
-•	java-17-openjdk = Java 17 Laufzeitumgebung
+•	java-17-openjdk = Java 17 Laufzeitumgebung / 21 für Rocky Linux 10.2
 •	tomcat = Application Server für Java-Web-Apps
 •	maven = Build-Tool, erzeugt aus Quellcode ein .war-Artefakt
 
