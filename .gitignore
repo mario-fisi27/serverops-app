@@ -4,3 +4,8 @@ target/
 *.tmp
 *~
 *.swp
+# Backups
+*.tar.gz
+*.sql
+*.bak
+*.backup
